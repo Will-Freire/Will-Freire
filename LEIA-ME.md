@@ -1,6 +1,6 @@
 - 👋 Olá eu sou @Will-Freire
 - 👀 Enteresse em Programação
-- 🌱 Gursando Análises e Desenvolvimento de Sistemas
+- 🌱 Cursando Análises e Desenvolvimento de Sistemas
 - 📫 https://www.linkedin.com/in/rerbert-will-3959197a/
 
 <!---
