@@ -1,8 +1,8 @@
 
  Olá Sou Will, Sejam bem vindos
 
-- 🔭 Estudande de front-end
-- 😄 Pronomes: Ele/Dele
+- 🔭 Estudande de front-End
+- Aos poucos estudando Back-End
  
 
 <div align="center">
