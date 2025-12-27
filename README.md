@@ -24,8 +24,13 @@ Apaixonado por soluções eficientes, dados e melhoria contínua.
 
 ## 📊 Atividade
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Will-Freire&theme=github-dark"/>
+  <img src="https://streak-stats.demolab.com?user=Will-Freire&theme=dark&hide_border=true" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats-five-sand-78.vercel.app/api?username=Will-Freire&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+</div>
+
 
 ---
 
