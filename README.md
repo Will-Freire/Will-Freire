@@ -15,17 +15,14 @@ Apaixonado por soluções eficientes, dados e melhoria contínua.
 
 ---
 
-## 🔥 Consistência
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Will-Freire&theme=dark&border_radius=10"/>
-</div>
+## 📊 Atividade & Consistência
 
----
+<div>
+  <img height="180em"
+       src="https://streak-stats.demolab.com?user=Will-Freire&theme=dark&hide_border=true" />
 
-## 📊 Atividade
-
-<div align="center">
-  <img src="https://github-readme-stats-five-sand-78.vercel.app/api?username=Will-Freire&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em"
+       src="https://github-readme-stats-five-sand-78.vercel.app/api?username=Will-Freire&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=21600" />
 </div>
 
 
