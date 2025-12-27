@@ -40,6 +40,7 @@ Apaixonado por soluções eficientes, dados e melhoria contínua.
 
 
 ---
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ## 📫 Contato
 
