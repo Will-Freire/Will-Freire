@@ -16,7 +16,6 @@ Apaixonado por soluções eficientes, dados e melhoria contínua.
 ---
 
 
-## 📊 Atividade & Consistência
 
 | Consistência | Atividade |
 |-------------|-----------|
