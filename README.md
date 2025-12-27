@@ -15,15 +15,6 @@ Apaixonado por soluções eficientes, dados e melhoria contínua.
 
 ---
 
-
-
-| Consistência | Atividade |
-|-------------|-----------|
-| ![](https://streak-stats.demolab.com?user=Will-Freire&theme=dark&hide_border=true) | ![](https://github-readme-stats-five-sand-78.vercel.app/api?username=Will-Freire&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=21600) |
-
-
----
-
 ## 🛠️ Tecnologias
 
 <div align="center">
