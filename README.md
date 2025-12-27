@@ -68,6 +68,12 @@ Apaixonado por soluções eficientes, dados e melhoria contínua.
 ---
 
 ## 📫 Contato
-- GitHub: https://github.com/Will-Freire
+
+<div align="center">
+  <a href="mailto:SEUEMAIL@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" />
+  </a>
+</div>
+
 
 
