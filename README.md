@@ -33,20 +33,24 @@ Apaixonado por soluções eficientes, dados e melhoria contínua.
 
 <div align="center">
   <!-- Web -->
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-  <!-- Versionamento -->
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="40" />
+  <!-- Excel -->
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 
-  <!-- Excel / VBA -->
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40" title="Microsoft Excel / VBA" />
+  <!-- VBA -->
+  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+  <!-- Controle de versão -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
   <!-- Inteligência Artificial (genérico) -->
-  <img src="https://cdn.simpleicons.org/openai/000000" height="40" title="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
+
 
 
 <div align="center">
