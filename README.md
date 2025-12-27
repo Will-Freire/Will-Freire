@@ -69,11 +69,18 @@ Apaixonado por soluções eficientes, dados e melhoria contínua.
 
 ## 📫 Contato
 
-<div align="center">
+<div>
   <a href="mailto:SEUEMAIL@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/D14836" height="40" />
   </a>
 </div>
+
+<div align="center">
+  <a href="mailto:SEUEMAIL@gmail.com?subject=Contato%20via%20GitHub">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
 
 
 
