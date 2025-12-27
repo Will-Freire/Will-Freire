@@ -32,20 +32,22 @@ Apaixonado por soluções eficientes, dados e melhoria contínua.
 ## 🛠️ Tecnologias
 
 <div align="center">
-  <!-- Front-end -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <!-- Web -->
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" />
 
-  <!-- Excel -->
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <!-- Versionamento -->
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" />
 
-  <!-- Controle de versão -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <!-- Excel / VBA -->
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40" title="Microsoft Excel / VBA" />
+
+  <!-- Inteligência Artificial (genérico) -->
+  <img src="https://cdn.simpleicons.org/openai/000000" height="40" title="Artificial Intelligence" />
 </div>
 
-<br/>
 
 <div align="center">
   <!-- VBA -->
