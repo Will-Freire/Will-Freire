@@ -39,16 +39,6 @@ Apaixonado por soluções eficientes, dados e melhoria contínua.
 
 
 
-<div align="center">
-  <!-- VBA -->
-  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-
-  <!-- Inteligência Artificial (genérico) -->
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white" />
-</div>
-
-
-
 ---
 
 ## 📫 Contato
