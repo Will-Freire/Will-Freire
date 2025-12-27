@@ -24,8 +24,9 @@ Apaixonado por soluções eficientes, dados e melhoria contínua.
 
 ## 🏆 Conquistas
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Will-Freire&theme=darkhub&row=1&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Will-Freire&theme=darkhub&no-frame=true&row=1"/>
 </div>
+
 
 ---
 
@@ -37,10 +38,16 @@ Apaixonado por soluções eficientes, dados e melhoria contínua.
 ---
 
 ## 🛠️ Tecnologias
-- HTML, CSS, JavaScript
-- Python, VBA, Automação
-- Git, GitHub
-- Análise de dados e processos
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+</div>
+
 
 ---
 
